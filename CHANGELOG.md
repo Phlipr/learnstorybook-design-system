@@ -1,3 +1,15 @@
+# v0.2.1 (Mon Jun 07 2021)
+
+#### 🐛 Bug Fix
+
+- Added export to AvatarList component. [#3](https://github.com/Phlipr/learnstorybook-design-system/pull/3) (preynolds@atp.com)
+
+#### Authors: 1
+
+- Phillip Reynolds ([@Phlipr](https://github.com/Phlipr))
+
+---
+
 # v0.2.0 (Mon Jun 07 2021)
 
 #### 🚀 Enhancement

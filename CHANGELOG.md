@@ -1,3 +1,15 @@
+# v0.2.0 (Mon Jun 07 2021)
+
+#### 🚀 Enhancement
+
+- Added AvatarList and stories. [#2](https://github.com/Phlipr/learnstorybook-design-system/pull/2) (preynolds@atp.com)
+
+#### Authors: 1
+
+- Phillip Reynolds ([@Phlipr](https://github.com/Phlipr))
+
+---
+
 # v0.1.1 (Mon Jun 07 2021)
 
 #### ⚠️ Pushed to `main`

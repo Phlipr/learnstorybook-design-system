@@ -15,6 +15,7 @@ export const sizes = {
 const Image = styled.div`
   background: ${(props) => (!props.loading ? "transparent" : color.light)};
   border-radius: 50%;
+  border: 3px solid green;
   display: inline-block;
   vertical-align: top;
   overflow: hidden;
